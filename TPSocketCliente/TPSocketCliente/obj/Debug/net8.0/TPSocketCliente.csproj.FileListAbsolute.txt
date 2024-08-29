@@ -1,0 +1,14 @@
+C:\Users\Geral\source\repos\TPSocketCliente\TPSocketCliente\obj\Debug\net8.0\TPSocketCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geral\source\repos\TPSocketCliente\TPSocketCliente\obj\Debug\net8.0\TPSocketCliente.AssemblyInfoInputs.cache
+C:\Users\Geral\source\repos\TPSocketCliente\TPSocketCliente\obj\Debug\net8.0\TPSocketCliente.AssemblyInfo.cs
+C:\Users\Geral\source\repos\TPSocketCliente\TPSocketCliente\obj\Debug\net8.0\TPSocketCliente.csproj.CoreCompileInputs.cache
+C:\Users\Geral\source\repos\TPSocketCliente\TPSocketCliente\bin\Debug\net8.0\TPSocketCliente.exe
+C:\Users\Geral\source\repos\TPSocketCliente\TPSocketCliente\bin\Debug\net8.0\TPSocketCliente.deps.json
+C:\Users\Geral\source\repos\TPSocketCliente\TPSocketCliente\bin\Debug\net8.0\TPSocketCliente.runtimeconfig.json
+C:\Users\Geral\source\repos\TPSocketCliente\TPSocketCliente\bin\Debug\net8.0\TPSocketCliente.dll
+C:\Users\Geral\source\repos\TPSocketCliente\TPSocketCliente\bin\Debug\net8.0\TPSocketCliente.pdb
+C:\Users\Geral\source\repos\TPSocketCliente\TPSocketCliente\obj\Debug\net8.0\TPSocketCliente.dll
+C:\Users\Geral\source\repos\TPSocketCliente\TPSocketCliente\obj\Debug\net8.0\refint\TPSocketCliente.dll
+C:\Users\Geral\source\repos\TPSocketCliente\TPSocketCliente\obj\Debug\net8.0\TPSocketCliente.pdb
+C:\Users\Geral\source\repos\TPSocketCliente\TPSocketCliente\obj\Debug\net8.0\TPSocketCliente.genruntimeconfig.cache
+C:\Users\Geral\source\repos\TPSocketCliente\TPSocketCliente\obj\Debug\net8.0\ref\TPSocketCliente.dll

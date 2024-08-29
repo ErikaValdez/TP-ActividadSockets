@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1724886574 source:c:\users\geral\desktop\tpsocket\tpsocket\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<time.h>
+

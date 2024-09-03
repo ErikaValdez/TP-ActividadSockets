@@ -30,8 +30,8 @@ Estas instrucciones te permitirán obtener una copia del proyecto en tu máquina
 
 ### Running the Tests
 Actualmente, no se tienen pruebas automatizadas. Sin embargo, se puede probar manualmente el sistema iniciando el servidor y conectando los clientes para verificar su funcionalidad.
-![Prueba C](https://github.com/ErikaValdez/TP-ActividadSockets/blob/main/Screen%20de%20pruebas%20realizadas/Cliente-C.png)"Cliente-Servidor C)
-![Prueba C#](https://github.com/ErikaValdez/TP-ActividadSockets/blob/main/Screen%20de%20pruebas%20realizadas/Cliente-C%23.png)"Cliente C#")
+![Prueba C#](https://github.com/ErikaValdez/TP-ActividadSockets/blob/main/Screen%20de%20pruebas%20realizadas/Cliente%20C%23%20-%20NombreUsuario%20correcto.png)"Cliente-Servidor C)
+![Prueba C]([https://github.com/ErikaValdez/TP-ActividadSockets/blob/main/Screen%20de%20pruebas%20realizadas/Cliente-C%23.png](https://github.com/ErikaValdez/TP-ActividadSockets/blob/main/Screen%20de%20pruebas%20realizadas/Cliente-C-%20NombreUsuario%20correcto.png))"Cliente C#")
 
 
 
